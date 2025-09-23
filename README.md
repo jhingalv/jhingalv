@@ -26,7 +26,10 @@
 <p align="center">
   <h2>🛠️ Tecnologías y herramientas</h2>
   <p>
-    <code>Linux & Bash</code> • <code>Windows Server & CMD</code> • <code>HTML/CSS</code> • <code>XML/XSL/XSD</code> • <code>Python</code> • <code>PHP</code> • <code>MSSQL</code> • <code>Cisco CLI</code> • <code>Teldat CLI</code>
+    <code>Linux & Bash</code> • <code>Windows Server & CMD</code> • <code>Cisco CLI</code> • <code>Teldat CLI</code>
+  </p>
+  <p>
+    <code>HTML/CSS</code> • <code>XML/XSL/XSD</code> • <code>Python</code> • <code>PHP</code> • <code>MSSQL</code>
   </p>
   <p>
     <code>Docker</code> • <code>Kubernetes</code> • <code>Ansible</code> • <code>Terraform</code> • <code>Vagrant</code>
