@@ -5,19 +5,23 @@
 </p>
 
 <h2 align="center">🚀 Sobre mí</h2>
-<ul align="center" style="list-style:none; padding-left:0;">
-  <li>🌐 <b>SysAdmin</b> con experiencia práctica en entornos productivos.</li>
-  <li>🔧 Apasionado por la automatización y optimización de procesos.</li>
-  <li>📚 En constante aprendizaje y actualización en tecnologías Cloud y DevOps.</li>
-  <li>🎯 Enfocado en entregar soluciones fiables y escalables que faciliten el trabajo en equipo.</li>
-</ul>
+<div style="text-align:center;">
+  <ul style="list-style:none; padding-left:0; display:inline-block; text-align:left;">
+    <li>🌐 <b>SysAdmin</b> con experiencia práctica en entornos productivos.</li>
+    <li>🔧 Apasionado por la automatización y optimización de procesos.</li>
+    <li>📚 En constante aprendizaje y actualización en tecnologías Cloud y DevOps.</li>
+    <li>🎯 Enfocado en entregar soluciones fiables y escalables que faciliten el trabajo en equipo.</li>
+  </ul>
+</div>
 
 <h2 align="center">🌱 Actualmente estoy aprendiendo</h2>
-<ul align="center" style="list-style:none; padding-left:0;">
-  <li>⚙️ <b>CI/CD:</b> Integración continua y despliegue automatizado con mejores prácticas.</li>
-  <li>🤖 <b>Automatización avanzada:</b> Vagrant, Ansible y Terraform para infraestructuras reproducibles.</li>
-  <li>🐳 <b>Contenedores y Microservicios:</b> Docker y Kubernetes para arquitecturas modernas y escalables.</li>
-</ul>
+<div style="text-align:center;">
+  <ul style="list-style:none; padding-left:0; display:inline-block; text-align:left;">
+    <li>⚙️ <b>CI/CD:</b> Integración continua y despliegue automatizado con mejores prácticas.</li>
+    <li>🤖 <b>Automatización avanzada:</b> Vagrant, Ansible y Terraform para infraestructuras reproducibles.</li>
+    <li>🐳 <b>Contenedores y Microservicios:</b> Docker y Kubernetes para arquitecturas modernas y escalables.</li>
+  </ul>
+</div>
 
 <h2 align="center">🛠️ Tecnologías y herramientas</h2>
 <p align="center">
@@ -29,11 +33,13 @@
 </p>
 
 <h2 align="center">🎓 Certificaciones</h2>
-<ul align="center" style="list-style:none; padding-left:0;">
-  <li>✅ Cisco - Certified Networking Associate 1 (CCNA1)</li>
-  <li>✅ Cisco - Certified Networking Associate 2 (CCNA2)</li>
-  <li>✅ ScrumStudy - Scrum Fundamentals Certified (SFC)</li>
-</ul>
+<div style="text-align:center;">
+  <ul style="list-style:none; padding-left:0; display:inline-block; text-align:left;">
+    <li>✅ Cisco - Certified Networking Associate 1 (CCNA1)</li>
+    <li>✅ Cisco - Certified Networking Associate 2 (CCNA2)</li>
+    <li>✅ ScrumStudy - Scrum Fundamentals Certified (SFC)</li>
+  </ul>
+</div>
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
