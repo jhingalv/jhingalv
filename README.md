@@ -26,16 +26,16 @@
 <p align="center">
   <h2>🛠️ Tecnologías y herramientas</h2>
   <p>
-    <code>Linux</code> • <code>Windows Server</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>Ansible</code> • <code>Terraform</code> • <code>Vagrant</code> • <code>Git</code> • <code>Jenkins</code> • <code>Prometheus</code> • <code>Grafana</code> • <code>Bash</code> • <code>Python</code>
+    <code>Linux & Bash</code> • <code>Windows Server & CMD</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>Ansible</code> • <code>Terraform</code> • <code>Vagrant</code> • <code>Git</code> • <code>Gitlab</code> • <code>Prometheus</code> • <code>Grafana</code> • <code>HTML/CSS</code> • <code>XML/XSL/XSD</code> • <code>Python</code> • <code>PHP</code> • <code>MSSQL</code> • <code>Cisco CLI</code> • <code>Teldat CLI</code>
   </p>
 </p>
 
 <p align="center">
   <h2>🎓 Certificaciones</h2>
   <ul style="list-style:none; padding-left:0;">
-    <li>✅ Linux Professional Institute Certification (LPIC-1)</li>
-    <li>✅ Certificación Docker Certified Associate (en curso)</li>
-    <li>✅ Curso de Automatización con Ansible - IES Zaidín Vergeles</li>
+    <li>✅ Cisco - Certified Networking Associate 1 (CCNA1)</li>
+    <li>✅ Cisco - Certified Networking Associate 2 (CCNA2)</li>
+    <li>✅ ScrumStudy - Scrum Fundamentals Certified (SFC)</li>
   </ul>
 </p>
 
