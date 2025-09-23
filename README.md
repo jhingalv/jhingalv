@@ -4,8 +4,6 @@
   <p>Apasionado por la administración de sistemas, la automatización y la infraestructura como código, con el objetivo de crecer hacia roles de <b>SysOps</b> y <b>DevOps</b> para crear infraestructuras eficientes, escalables y resilientes.</p>
 </p>
 
----
-
 <p align="center">
   <h2>🚀 Sobre mí</h2>
   <ul style="list-style:none; padding-left:0;">
@@ -16,8 +14,6 @@
   </ul>
 </p>
 
----
-
 <p align="center">
   <h2>🌱 Actualmente estoy aprendiendo</h2>
   <ul style="list-style:none; padding-left:0;">
@@ -27,16 +23,12 @@
   </ul>
 </p>
 
----
-
 <p align="center">
   <h2>🛠️ Tecnologías y herramientas</h2>
   <p>
     <code>Linux</code> • <code>Windows Server</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>Ansible</code> • <code>Terraform</code> • <code>Vagrant</code> • <code>Git</code> • <code>Jenkins</code> • <code>Prometheus</code> • <code>Grafana</code> • <code>Bash</code> • <code>Python</code>
   </p>
 </p>
-
----
 
 <p align="center">
   <h2>🎓 Certificaciones</h2>
@@ -46,8 +38,6 @@
     <li>✅ Curso de Automatización con Ansible - IES Zaidín Vergeles</li>
   </ul>
 </p>
-
----
 
 <p align="center">
   <h2>📫 Contacto</h2>
@@ -59,14 +49,10 @@
   </p>
 </p>
 
----
-
 <p align="center">
   <h2>📊 Mis estadísticas en GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=jhingalv&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Estadísticas GitHub" />
 </p>
-
----
 
 <p align="center">
   <h3>¿Quieres ver alguno de mis proyectos?</h3>
