@@ -15,3 +15,4 @@ Soy estudiante de **ASIR** en el **IES Zaidín Vergeles** y actualmente trabajo 
 - [GitHub](https://github.com/jhingalv)
 
 ¡Gracias por visitar mi perfil!
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jhingalv&show_icons=true&hide_title=true&count_private=true&hide=prs)
