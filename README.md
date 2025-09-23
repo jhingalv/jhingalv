@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Buenas! Soy Amador Hinojosa Gálvez 👋
 
-<!--
-**jhingalv/jhingalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **ASIR** en el **IES Zaidín Vergeles** y actualmente trabajo como **SysAdmin** en **Veridata SL**. Me apasiona la administración de sistemas y la automatización, y mi objetivo es desarrollarme profesionalmente hacia roles de **SysOps** y **DevOps**.
 
-Here are some ideas to get you started:
+## 🌱 Actualmente aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CI/CD**: Mejores prácticas en integración continua y entrega continua
+- **Automatización avanzada**: Vagrant, Ansible y Terraform para infraestructuras escalables
+- **Microservicios y contenedores**: Implementación de microservicios usando Kubernetes y Docker
+
+## 🧑‍💻 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/juan-amador-hinojosa-galvez)
+- [Correo](mailto:jhingal3010@ieszaidinvergeles.org)
+- [GitHub](https://github.com/jhingalv)
+
+¡Gracias por visitar mi perfil!
