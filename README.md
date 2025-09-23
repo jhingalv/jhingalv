@@ -1,5 +1,5 @@
+<h1 align="center">👋 ¡Hola! Soy <b>Amador Hinojosa Gálvez</b></h1>
 <p align="center">
-  👋 ¡Hola! Soy <b>Amador Hinojosa Gálvez</b><br>
   Estudiante de <b>ASIR</b> en el <b>IES Zaidín Vergeles</b> y <b>SysAdmin</b> en <b>Veridata SL</b>.<br>
   Apasionado por la administración de sistemas, la automatización y la infraestructura como código, con el objetivo de crecer hacia roles de <b>SysOps</b> y <b>DevOps</b> para crear infraestructuras eficientes, escalables y resilientes.
 </p>
