@@ -1,3 +1,5 @@
+<br/><br/>
+
 <h1 align="center">👋 ¡Hola! Soy <b>Amador Hinojosa Gálvez</b></h1>
 <p align="center">
   Estudiante de <b>ASIR</b> en el <b>IES Zaidín Vergeles</b> y <b>SysAdmin</b> en <b>Veridata SL</b>.<br>
