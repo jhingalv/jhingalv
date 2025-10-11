@@ -28,7 +28,7 @@ Me encuentro en proceso de profundización en las siguientes áreas clave:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)  
+![XML/XSL/XSD](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)  
 
 ### Administración de sistemas y redes
 ![Linux Server](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
@@ -65,5 +65,5 @@ Me encuentro en proceso de profundización en las siguientes áreas clave:
 Estoy abierto a nuevas oportunidades de colaboración, intercambio de conocimientos y resolver cualquier duda que puedas tener. No dudes en ponerte en contacto conmigo:
 
 - [LinkedIn](https://linkedin.com/in/juan-amador-hinojosa-galvez)
-- Correo electrónico: [jhingal3010@gmail.com](mailto:jhingal3010@gmail.com)
 - [GitHub](https://github.com/jhingalv)
+- [Email](mailto:jhingal3010@gmail.com)
