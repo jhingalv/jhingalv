@@ -31,8 +31,8 @@ Me encuentro en proceso de profundización en las siguientes áreas clave:
 ![XML/XSL/XSD](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)  
 
 ### Administración de sistemas y redes
-![Linux Server](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux/Linux Server](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows/Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![Cisco CLI](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)  
 ![Teldat CLI](https://img.shields.io/badge/Teldat-00588C?style=for-the-badge&logoColor=white)  
 ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
